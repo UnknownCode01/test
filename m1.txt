@@ -1,2 +1,3 @@
 this is m1.txt file
 and now it is changed for b1.
+and now it (not) is changed.
